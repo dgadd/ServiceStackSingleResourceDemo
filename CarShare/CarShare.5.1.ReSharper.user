@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="342" fromTop="15" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Host/f:CarShareAppHost.cs" caret="85" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="379" fromTop="18" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="347" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="CarShareAppHostTests`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

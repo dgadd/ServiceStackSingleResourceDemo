@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="99E55F07-5963-4EFE-8886-A330299680C5" ModuleId="CarShare.RestAPI" />
+  <Module PersistentId="30068CE9-924C-47CF-A449-B19C9FE4FCF0" ModuleId="CarShare.RestAPI.Tests.Unit" />
+  <Module PersistentId="F9A220AF-59D7-44A8-82AF-E4B04903D1E5" ModuleId="App" />
+</Modules>

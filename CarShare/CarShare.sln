@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShare.RestAPI", "CarShare.RestAPI\CarShare.RestAPI.csproj", "{99E55F07-5963-4EFE-8886-A330299680C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{F9A220AF-59D7-44A8-82AF-E4B04903D1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShare.RestAPI.Tests.Unit", "CarShare.RestAPI.Tests.Unit\CarShare.RestAPI.Tests.Unit.csproj", "{30068CE9-924C-47CF-A449-B19C9FE4FCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E55F07-5963-4EFE-8886-A330299680C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E55F07-5963-4EFE-8886-A330299680C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E55F07-5963-4EFE-8886-A330299680C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E55F07-5963-4EFE-8886-A330299680C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A220AF-59D7-44A8-82AF-E4B04903D1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A220AF-59D7-44A8-82AF-E4B04903D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A220AF-59D7-44A8-82AF-E4B04903D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A220AF-59D7-44A8-82AF-E4B04903D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30068CE9-924C-47CF-A449-B19C9FE4FCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30068CE9-924C-47CF-A449-B19C9FE4FCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30068CE9-924C-47CF-A449-B19C9FE4FCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30068CE9-924C-47CF-A449-B19C9FE4FCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
