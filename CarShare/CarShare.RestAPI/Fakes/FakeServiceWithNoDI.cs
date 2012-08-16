@@ -22,6 +22,13 @@ namespace CarShare.RestAPI.Fakes
             return cars.ToList();
         }
 
+        public void PostThe(CarInputDTO request)
+        {
+            // save to db would occur here--but its a fake
+        }
+
+
+
 
 
 

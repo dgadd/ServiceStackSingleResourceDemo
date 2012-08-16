@@ -8,12 +8,47 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="342" fromTop="15" />
-      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Host/f:CarShareAppHost.cs" caret="85" fromTop="5" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="118" fromTop="3" />
+      <File id="F9A220AF-59D7-44A8-82AF-E4B04903D1E5/f:Global.asax.cs" caret="342" fromTop="14" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Host/f:CarShareAppHost.cs" caret="39" fromTop="1" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Resources/f:Car.cs" caret="249" fromTop="12" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:InputDTOs/f:CarInputDTO.cs" caret="210" fromTop="10" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1571" fromTop="10" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="879" fromTop="21" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="395" fromTop="5" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="382" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
-      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="379" fromTop="18" />
-      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarShareAppHostTests.cs" caret="347" fromTop="15" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="728" fromTop="20" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="728" fromTop="21" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1217" fromTop="24" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1217" fromTop="27" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1385" fromTop="28" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1217" fromTop="15" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1009" fromTop="15" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1042" fromTop="22" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="468" fromTop="13" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="468" fromTop="18" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="415" fromTop="9" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="311" fromTop="3" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="927" fromTop="22" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="739" fromTop="17" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="312" fromTop="5" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="493" fromTop="9" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1009" fromTop="5" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1943" fromTop="26" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:InputDTOs/f:CarInputDTO.cs" caret="206" fromTop="10" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1920" fromTop="24" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1528" fromTop="14" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1739" fromTop="15" />
+      <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1878" fromTop="19" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="3069" fromTop="21" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="1015" fromTop="18" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="879" fromTop="21" />
+      <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="814" fromTop="17" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="53" fromTop="2" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="147" fromTop="6" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="382" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -29,11 +64,70 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="0" />
-      <Item value="void" priority="0" />
-      <Item value="var" priority="0" />
-      <Item value="new" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="6" />
       <Item value="CarShareAppHostTests`0" priority="0" />
+      <Item value="Assert`0" priority="3" />
+      <Item value="typeof" priority="1" />
+      <Item value="CarShareAppHost`0" priority="0" />
+      <Item value="CarHttpCommandsTests`0" priority="0" />
+      <Item value="sut" priority="0" />
+      <Item value="CarInputDTO" priority="0" />
+      <Item value="List`0" priority="1" />
+      <Item value="cars" priority="1" />
+      <Item value="return" priority="5" />
+      <Item value="List&lt;Car&gt;" priority="0" />
+      <Item value="Car" priority="0" />
+      <Item value="fakeCars" priority="1" />
+      <Item value="c" priority="2" />
+      <Item value="request" priority="9" />
+      <Item value="if" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="string" priority="2" />
+      <Item value="Make" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="FakeServiceWithNoDI`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsInstanceOf`1" priority="1" />
+      <Item value="AreEqual`0" priority="0" />
+      <Item value="Fail`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarShare.RestAPI.HttpCommands.CarHttpCommands">
+      <Item value="OnGet`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarShare.RestAPI.Resources.Car">
+      <Item value="Make" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="Year" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CarShare.RestAPI.InputDTOs.CarInputDTO">
+      <Item value="Make" priority="3" />
+      <Item value="Model" priority="1" />
+      <Item value="Year" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

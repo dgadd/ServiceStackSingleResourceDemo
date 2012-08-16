@@ -22,7 +22,8 @@ namespace CarShare.RestAPI.HttpCommands
 
         public override object OnPost(CarInputDTO request)
         {
-            throw new NotImplementedException();
+            new FakeServiceWithNoDI().PostThe(request);
+            return null; // many more complex return options than this
         }
 
         public override object OnDelete(CarInputDTO request)

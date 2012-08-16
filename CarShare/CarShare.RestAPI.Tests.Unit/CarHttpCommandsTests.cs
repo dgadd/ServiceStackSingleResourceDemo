@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using CarShare.RestAPI.HttpCommands;
 using CarShare.RestAPI.InputDTOs;
@@ -39,6 +40,25 @@ namespace CarShare.RestAPI.Tests.Unit
             });
 
             Assert.AreEqual(18, cars.Count, "All 18 cars should be returned from fake data.");
+        }
+
+        [Test]
+        public void OnPostMethod_CarInputDtoInputs_SavesTheCar()
+        {
+            var sut = new CarHttpCommands();
+            try
+            {
+                sut.OnPost(new CarInputDTO
+                {
+                    Make = "Ford",
+                    Model = "Focus",
+                    Year = "2012"
+                });
+            }
+            catch (Exception ex)
+            {
+                Assert.Fail(string.Format("Car POST should not throw any errors: {0}", ex.Message));
+            }
         }
 
     }
