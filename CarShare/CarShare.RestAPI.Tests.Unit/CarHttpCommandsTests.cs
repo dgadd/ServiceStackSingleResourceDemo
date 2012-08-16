@@ -22,12 +22,23 @@ namespace CarShare.RestAPI.Tests.Unit
         {
             var sut = new CarHttpCommands();
             var cars = (List<Car>)sut.OnGet(new CarInputDTO
-                          {
-                              Make = "Toyota",
-                              Model = "Prius"
-                          });
+            {
+                Make = "Toyota",
+                Model = "Prius"
+            });
 
             Assert.AreEqual(9, cars.Count, "9 cars should be returned from fake data.");
+        }
+
+        [Test]
+        public void OnGetMethod_No_Specified_Inputs_Returns_All_Cars_From_Fake_Data()
+        {
+            var sut = new CarHttpCommands();
+            var cars = (List<Car>)sut.OnGet(new CarInputDTO
+            {
+            });
+
+            Assert.AreEqual(18, cars.Count, "All 18 cars should be returned from fake data.");
         }
 
     }

@@ -12,9 +12,7 @@ namespace CarShare.RestAPI.HttpCommands
     {
         public override object OnGet(CarInputDTO request)
         {
-            List<Car> fakeCars = new FakeServiceWithNoDI().GetFakeCarData();
-            IEnumerable<Car> cars = fakeCars.Where(c => c.Make.Equals(request.Make) && c.Model.Equals(request.Model));
-            return cars.ToList();
+            return new FakeServiceWithNoDI().GetFakeCarDataBy(request);
         }
 
         public override object OnPut(CarInputDTO request)
