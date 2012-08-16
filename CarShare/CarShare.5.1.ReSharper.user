@@ -16,7 +16,7 @@
       <File id="30068CE9-924C-47CF-A449-B19C9FE4FCF0/f:CarHttpCommandsTests.cs" caret="1571" fromTop="10" />
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="879" fromTop="21" />
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="395" fromTop="5" />
-      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="382" fromTop="13" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README.markdown/l:C!?devhome?all?ServiceStackSingleResource?README.markdown" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="728" fromTop="20" />
@@ -46,9 +46,9 @@
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="1015" fromTop="18" />
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:Fakes/f:FakeServiceWithNoDI.cs" caret="879" fromTop="21" />
       <File id="99E55F07-5963-4EFE-8886-A330299680C5/d:HttpCommands/f:CarHttpCommands.cs" caret="814" fromTop="17" />
-      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="53" fromTop="2" />
-      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="147" fromTop="6" />
-      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README/l:C!?devhome?all?ServiceStackSingleResource?README" caret="382" fromTop="13" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README.markdown/l:C!?devhome?all?ServiceStackSingleResource?README.markdown" caret="53" fromTop="2" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README.markdown/l:C!?devhome?all?ServiceStackSingleResource?README.markdown" caret="147" fromTop="6" />
+      <File id="C930556B-301D-4EEB-9EB3-8882D679CA05/f:README.markdown/l:C!?devhome?all?ServiceStackSingleResource?README.markdown" caret="382" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
